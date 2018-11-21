@@ -1,3 +1,18 @@
+# These are resources I found most helpful!
+
+### Interactive Tutorials and Courses
+
+[Free Code Camp](https://www.freecodecamp.org/)
+
+Free interactive fullstack web development course. Be sure to take time to use the things you learn on your own to make sure you fully understand them because it's easy to breeze through the lessons without fully understanding how to use the code.
+
+### Helpful Articles
+
+### Coding Challenges
+
+
+# The following resources are the resources suggested by #100DaysOfCode
+
 # Primary Resources on the #100DaysOfCode
 
 [The #100DaysOfCode Official Site](http://100daysofcode.com/)
