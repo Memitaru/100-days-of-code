@@ -26,3 +26,11 @@ November 22 - Thanksgiving
 
 Learned how to commit a change that deletes files from the directory. Removed drum noises from my project on GitHub using git bash.
 Starting the applied visual design section of Free Code Camp.
+
+###R1D4
+
+November 23
+
+Made changes to the colors on my cow soundboard played with the CSS.
+Used GitHub pages to host my cow soundboard.
+Downloaded and started practicing with add-ons for VS Code. Learning how each one will help me code more effectively.
