@@ -34,3 +34,10 @@ November 23
 Made changes to the colors on my cow soundboard played with the CSS.
 Used GitHub pages to host my cow soundboard.
 Downloaded and started practicing with add-ons for VS Code. Learning how each one will help me code more effectively.
+
+###R1D5
+
+November 24
+
+Learning higher order functions in JavaScript to apply them to a JavaScript homework problem.
+Learning and practicing arrow functions.
