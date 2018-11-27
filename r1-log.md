@@ -41,3 +41,13 @@ November 24
 
 Learning higher order functions in JavaScript to apply them to a JavaScript homework problem.
 Learning and practicing arrow functions.
+
+###R1D6
+
+November 25
+
+First day of Lambda School Fullstack Web Development.
+Reviewed semantic HTML.
+Studied CSS specificity and inheritance.
+Practiced assigning colors to text using multiple CSS classes to get hands on practice with CSS specificity and inheritance.
+[Project on Codepen]{https://codepen.io/memitaru/pen/oQMMyM}
