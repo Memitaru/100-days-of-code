@@ -44,10 +44,46 @@ Learning and practicing arrow functions.
 
 ###R1D6
 
-November 25
+November 26
 
 First day of Lambda School Fullstack Web Development.
 Reviewed semantic HTML.
 Studied CSS specificity and inheritance.
 Practiced assigning colors to text using multiple CSS classes to get hands on practice with CSS specificity and inheritance.
 [Project on Codepen]{https://codepen.io/memitaru/pen/oQMMyM}
+
+###R1D7
+
+November 27
+
+Practicing CSS basics. Second day of Lambda School. Learning more uses for CSS.
+[Project on Codepen](https://codepen.io/memitaru/pen/zMmKgm)
+
+###R1D8
+
+November 28
+
+Diving more into CSS and formatting. Today was working on taking yesterday's project and changing it up to look different and then using that same header/footer to create another page.
+
+Read up on CSS animations and learned about Google Fonts.
+
+[Main Page](https://codepen.io/memitaru/pen/RqeKWL)
+[Cookie Page](https://codepen.io/memitaru/pen/wQQwWo)
+
+###R1D9
+
+November 29
+
+Learning about the box model and CSS. Today's project is to create a webpage based on a design given by the instructor. Float and flex box are not allowed. Must use what we learned about the box model.
+
+Lots of googling. Took me about an hour to get just the navigation bar lined up but I'm making progress.
+
+[Github Link](https://github.com/Memitaru/User-Interface)
+
+###R1D10
+
+November 30th
+
+Contining working on my box model project. Making more progress. Will be working on it for a good part of today.
+
+[Github Link](https://github.com/Memitaru/User-Interface)
