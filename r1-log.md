@@ -87,3 +87,7 @@ November 30th
 Contining working on my box model project. Making more progress. Will be working on it for a good part of today.
 
 [Github Link](https://github.com/Memitaru/User-Interface)
+
+###Failed
+
+I missed a lot of coding days. I'm moving and have had some health problems so I am not taking it as a personal failure. Sometimes life gets in the way. But I think it's a good day to start over!
